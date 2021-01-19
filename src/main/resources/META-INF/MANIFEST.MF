@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Main-Class: com.company.Main
+Class-Path: httpcore-4.4.13.jar jackson-annotations-2.10.0.jar listenabl
+ efuture-9999.0-empty-to-avoid-conflict-with-guava.jar guava-28.2-jre.ja
+ r slf4j-api-1.7.20.jar commons-io-2.6.jar commons-lang3-3.1.jar jackson
+ -databind-2.10.0.jar error_prone_annotations-2.3.4.jar jsr305-3.0.2.jar
+  xpp3-1.1.4c.jar jackson-core-2.10.0.jar org.hl7.fhir.r4-5.0.0.jar hapi
+ -fhir-structures-r4-5.2.0.jar hapi-fhir-base-5.0.2.jar jcl-over-slf4j-1
+ .7.28.jar hapi-fhir-structures-dstu3-5.2.0.jar junit-4.12.jar logback-c
+ ore-1.1.7.jar hapi-fhir-client-5.2.0.jar commons-logging-1.1.1.jar http
+ client-4.5.13.jar hapi-fhir-structures-r4-5.0.2.jar failureaccess-1.0.1
+ .jar checker-qual-2.10.0.jar commons-text-1.7.jar logback-classic-1.1.7
+ .jar xpp3_xpath-1.1.4c.jar google-collections-1.0.jar org.hl7.fhir.util
+ ities-5.0.0.jar j2objc-annotations-1.3.jar hapi-fhir-base-5.2.0.jar ucu
+ m-1.0.2.jar commons-codec-1.12.jar
+
